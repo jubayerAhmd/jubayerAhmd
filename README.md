@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubayerahmad&label=Profile%20views&color=0e75b6&style=flat" alt="jubayerahmad" /> </p>
 
-<p align="left"> <a href="https://github.com//?username=jubayerahmad/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jubayerahmad" alt="jubayerahmad" /></a> </p>
+<p align="left"> <a href="https://github.com//?username=jubayerahmd/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jubayerahmd" alt="jubayerahmd" /></a> </p>
 
 
 - 🔭 I’m currently working on **C-Sharp**
