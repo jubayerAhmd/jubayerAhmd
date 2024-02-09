@@ -7,6 +7,7 @@
 
 
 - 🔭 I’m currently working on **C-Sharp**
+- 🔭 I’m currently working on **C++**
 
 - 📫 How to reach me **jubayerahmad01@gmail.com**
 
